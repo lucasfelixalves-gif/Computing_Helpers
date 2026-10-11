@@ -40,6 +40,10 @@ The `.tns` files are companion files for use on TI-Nspire calculators or softwar
 
    Runs a simple command-line multiplayer poker helper. It records players, starting chips, and blinds; manages pre-flop, flop, turn, and river betting phases; accepts folds, checks, calls, and raises; tracks the pot and each player’s chips; distributes showdown winnings, handles ties, eliminates players with no chips, and increases the blind during the game. The program does not evaluate cards or determine a winner automatically, so the winner is entered manually after a showdown.
 
+8. **[Crane Hook Displacement] - A collection of scripts and derivations related to Castigliano's theorem**
+
+   Utilizes Castigliano's theorem and Curved Beam theory to plot the deflection of a crane's hook and the stress distribution across the critical cross-section. Includes a .md file with the derivations realted with the application of Castigliano's Theorem.
+
 ## Notes
 
 - The programs use metric units unless an input prompt specifies otherwise.
