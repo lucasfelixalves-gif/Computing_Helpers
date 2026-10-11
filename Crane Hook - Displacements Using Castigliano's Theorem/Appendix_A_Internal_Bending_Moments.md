@@ -1,4 +1,4 @@
-# Appendix A: Derivation of Internal Bending Moments for Castigliano’s Theorem
+# Derivation of Internal Bending Moments for Castigliano’s Theorem
 
 ## 1. Introduction
 
