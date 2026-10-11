@@ -4,7 +4,7 @@
 
 To compute the horizontal and vertical displacements at an arbitrary angle $\Theta$ on the lower hook, fictitious dummy loads are introduced at the point of interest $(X_\Theta, Y_\Theta)$. The horizontal dummy load $H$ acts in the $-X$ direction, and the vertical dummy load $V$ acts in the $-Y$ direction. These loads are used with Castigliano’s theorem to obtain the corresponding displacement components by differentiating the strain energy with respect to $H$ and $V$. The real working load $F$ is applied vertically downwards at the hook’s tip, taken as the origin of the applied-load coordinate description. The internal bending moment is obtained by isolating the portion of the hook on the load side of a moving cut and enforcing moment equilibrium about that cut.
 
-![Crane Hook Coordinate System](centerline_2.png)
+![Crane Hook Coordinate System](centerline.png)
 
 ## 2. Coordinate System and Geometric Mapping
 
