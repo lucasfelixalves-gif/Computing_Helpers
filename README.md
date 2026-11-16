@@ -44,7 +44,7 @@ The `.tns` files are companion files for use on TI-Nspire calculators or softwar
 
    Utilizes Castigliano's theorem and Curved Beam theory to plot the deflection of a crane's hook and the stress distribution across the critical cross-section. Includes a .md file with the derivations realted with the application of Castigliano's Theorem.
 
-9. **[Bomfim Barreiros] - A calculator for Bomfim Barrerios integral method**
+9. **[bomfimbarreiros.py] - A calculator for Bomfim Barrerios integral method**
 
    Together with dmi.py, Bomfim Barreiros is a calculator for Structural Mechanics. This particular scripts aids on computing strain energy integrals following the reduced table 'Bomfim_Barreiros_reduzido.png'.
 
